@@ -95,7 +95,7 @@ Utilizar esses dados que geralmente são perdidos ou que se tornam irrelevantes 
 
 Através dos artigo "Sintomas de ansiedade mais comuns em adolescentes" o corpo demonstra sinais de de ansiedade atráves de sintomas(“tremores ou sensação de fraqueza; tensão ou dor muscular; inquietação; fadiga fácil; falta de ar ou sensação de fôlego curto; palpitações”) que podem ser perceptíveis através de dispositvos vestíveis como os Smartwatches, onde uma pesquisa feita pela Stanford revela que a precisão do smartwatch é alta, mesmo não conseguindo realizar exames mais precisos em relação ao coração.
 
-Ideia complementar a verificação de problemas psicológicos seria a própria saúde do usuário em após um uma pesquisa realizada pela Chinese Medical Journal onde uma boa parcela de pessoas que passaram pela pesquisa e tem algum sintoma de problema cardiaco, realmente tem algum problema onde seriam facilmente coletados por um vestivel e a maioria dos casos são pessoas idosas onde pode ser um possivel foco para esse projeto. 
+Ideia complementar a verificação de problemas psicológicos seria a própria saúde do usuário em após um uma pesquisa realizada pela Chinese Medical Journal onde uma boa parcela de pessoas que passaram pela pesquisa e tem algum sintoma de problema cardiaco, realmente tem algum problema onde seriam facilmente coletados por um vestivel e a maioria dos casos são pessoas idosas onde pode ser um possivel foco para esse projeto. (REEDER, 2016)
 
 Através de umas pesquisa "Health at hand" os vestiveis estão evoluindo a todo momento conforme a tecnologia evolui os smartwatches ganham mais precisão, ainda sim não são totalmente confiaveis para uma decisão final sobre uma doença eminente, mas podem ser utilizados como um auxilio para dados onde sua precisão ainda continua em uma porcentagem aceitavel para utilizar como um metodo de ajuda, em um pico de adrenalina, em uma arritmia onde o corpo da sinais fortes de alteração ou até mesmo um ataque epilético.
 
@@ -116,7 +116,7 @@ https://med.stanford.edu/news/all-news/2018/11/stanford-apple-describe-heart-stu
 Public knowledge of heart attack symptoms in Beijing residents
 https://journals.lww.com/cmj/Fulltext/2007/09020/Public_knowledge_of_heart_attack_symptoms_in.8.aspx
 
-Health at hand: A systematic review of smart watch uses for health and wellness
+REEDER, Blaine; DAVID, Alexandria. Health at hand: a systematic review of smart watch uses for health and wellness. Journal of biomedical informatics, v. 63, p. 269-276, 2016.
 https://www.sciencedirect.com/science/article/pii/S1532046416301137
 
 
